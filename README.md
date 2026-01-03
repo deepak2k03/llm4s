@@ -613,6 +613,21 @@ Stay updated with talks, workshops, and presentations about **LLM4S** happening 
 - Contribute to a project that offers you the opportunity to become a mentor or contributor funded by Google through its [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) program.
 - Join a global developer community focused on type-safe, maintainable AI systems.
 
+
+## For New Contributors / GSoC Aspirants
+
+If you are new to LLM4S or exploring this project as part of Google Summer of Code (GSoC),
+a recommended way to get started is:
+
+- Read this README once end-to-end to understand the project scope
+- Set up the local environment and verify it using `sbt compile`
+- Explore the `modules/samples` directory to see minimal working examples
+- Look for beginner-friendly or documentation-related issues before moving to core features
+
+Early communication on GitHub Issues and Discord is encouraged, especially when
+evaluating project ideas or clarifying contribution scope.
+
+
 ## Contributing
 
 Interested in contributing? Start here:
